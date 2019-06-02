@@ -1,14 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Youfei Zhang</title>
     <link>https://yuffyz.github.io/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on Youfei Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2019 14:20:50 -0400</lastBuildDate>
     
 	    <atom:link href="https://yuffyz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Climbing Tenerife</title>
+      <link>https://yuffyz.github.io/post/climbing-tenerife/</link>
+      <pubDate>Sun, 02 Jun 2019 14:20:50 -0400</pubDate>
+      
+      <guid>https://yuffyz.github.io/post/climbing-tenerife/</guid>
+      <description>&lt;p&gt;Last summer I went for a solo trip to Tenerife, a tropical island of Spain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MapReduce for Log file</title>
+      <link>https://yuffyz.github.io/project/mapreduce-log/</link>
+      <pubDate>Sun, 02 Jun 2019 10:05:44 -0400</pubDate>
+      
+      <guid>https://yuffyz.github.io/project/mapreduce-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Article Recommender</title>
+      <link>https://yuffyz.github.io/project/article-recommender/</link>
+      <pubDate>Sun, 02 Jun 2019 10:04:54 -0400</pubDate>
+      
+      <guid>https://yuffyz.github.io/project/article-recommender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapreduce Patterns</title>
+      <link>https://yuffyz.github.io/project/mapreduce-patterns/</link>
+      <pubDate>Sun, 02 Jun 2019 10:03:47 -0400</pubDate>
+      
+      <guid>https://yuffyz.github.io/project/mapreduce-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP Analysis of Disaster Tweets</title>
+      <link>https://yuffyz.github.io/project/nlp-for-disaster/</link>
+      <pubDate>Sun, 02 Jun 2019 10:03:33 -0400</pubDate>
+      
+      <guid>https://yuffyz.github.io/project/nlp-for-disaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark Kmeans from Scratch</title>
+      <link>https://yuffyz.github.io/project/spark-kmeans/</link>
+      <pubDate>Sun, 02 Jun 2019 10:03:07 -0400</pubDate>
+      
+      <guid>https://yuffyz.github.io/project/spark-kmeans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark Examples</title>
+      <link>https://yuffyz.github.io/project/spark-examples/</link>
+      <pubDate>Sun, 02 Jun 2019 10:03:01 -0400</pubDate>
+      
+      <guid>https://yuffyz.github.io/project/spark-examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML models from Scratch</title>
+      <link>https://yuffyz.github.io/project/ml-scratch/</link>
+      <pubDate>Sun, 02 Jun 2019 10:02:53 -0400</pubDate>
+      
+      <guid>https://yuffyz.github.io/project/ml-scratch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Hospital Readmission Rates</title>
+      <link>https://yuffyz.github.io/project/diabetes-ml/</link>
+      <pubDate>Sun, 02 Jun 2019 10:01:59 -0400</pubDate>
+      
+      <guid>https://yuffyz.github.io/project/diabetes-ml/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

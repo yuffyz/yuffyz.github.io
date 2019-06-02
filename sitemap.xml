@@ -3,12 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yuffyz.github.io/authors/admin/</loc>
+    <loc>https://yuffyz.github.io/post/climbing-tenerife/</loc>
+    <lastmod>2019-06-02T14:20:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/post/</loc>
+    <lastmod>2019-06-02T14:20:50-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://yuffyz.github.io/</loc>
+    <lastmod>2019-06-02T14:20:50-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/project/mapreduce-log/</loc>
+    <lastmod>2019-06-02T10:05:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/project/</loc>
+    <lastmod>2019-06-02T10:05:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/project/article-recommender/</loc>
+    <lastmod>2019-06-02T10:04:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/project/mapreduce-patterns/</loc>
+    <lastmod>2019-06-02T10:03:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/project/nlp-for-disaster/</loc>
+    <lastmod>2019-06-02T10:03:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/project/spark-kmeans/</loc>
+    <lastmod>2019-06-02T10:03:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/project/spark-examples/</loc>
+    <lastmod>2019-06-02T10:03:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/project/ml-scratch/</loc>
+    <lastmod>2019-06-02T10:02:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/project/diabetes-ml/</loc>
+    <lastmod>2019-06-02T10:01:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuffyz.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -19,10 +76,6 @@
   <url>
     <loc>https://yuffyz.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuffyz.github.io/post/</loc>
   </url>
   
   <url>
